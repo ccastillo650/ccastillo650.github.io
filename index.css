@@ -1,0 +1,33 @@
+img {float: right;
+margin: 70px
+border:10px solid yellow;
+}
+head{
+  background-color: #333742;
+  border-radius: : 3px solid yellow;
+  padding: 30px 30px
+}
+body{
+background-color: black;
+font-family: arial;
+font-size: 17px;
+color: white;
+margin: 50px;
+}
+
+.info {
+
+display: flex;
+position: relative;
+top: 125px;
+left: 0;
+right: 0;
+bottom: 200px;
+
+
+}
+
+.innerinfo {
+  background-color: #333742;
+  border: 3px solid yellow;
+  padding: 30px 30px
